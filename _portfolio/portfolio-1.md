@@ -1,7 +1,7 @@
 ---
 title: "Intern projects at Ant Financial"
 excerpt: "Integration of an end-to-end e-commerce mall enabling buy and refund with reward points<br>
-A platform-wised achievement system that supports services on marketing pages<br/><img src='/images/500x300.png'>"
+A platform-wised achievement system that supports services on marketing pages<br/><img src='/images/internproject1.png'>"
 collection: portfolio
 ---
 
