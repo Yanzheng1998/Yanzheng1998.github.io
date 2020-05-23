@@ -15,15 +15,14 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2019: Software Engineering Intern
+  * Ant Financial(Alibaba Group)
+  * Duties included: Design, deliver, review and maintain backend codebases.
+  * Projects
+    * Integrate an end-to-end e-commerce mall provided by Ali-Cloud to current marketing service.
+    * Implement APIs by Java under a Spring-Cloud-like frame, SOFA, which enabling buy and refund with rewarding points in the e-commerce mall, bringing an increase in PV of marketing front page by 15% and an average GMV of $4,3000.
+    * Design and implement an achievement module for platform by Java and optimized to accept high QPS with MessageBroker, a message queue.
+    * Design templates for achievements, created associated database tables and wrote scripts for operation managers to change achievements' configurations with those templates, decreasing the time for changing configurations by 95%.
   
 Skills
 ======
@@ -34,24 +33,3 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
