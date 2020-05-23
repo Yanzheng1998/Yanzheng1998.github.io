@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Intern projects at Ant Financial"
+excerpt: "Integration of an end-to-end e-commerce mall enabling buy and refund with reward points; A platform-wised achievement system that supports services on marking page of out app<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
