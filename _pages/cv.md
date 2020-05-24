@@ -24,12 +24,12 @@ Work experience
   * Ant Financial(Alibaba Group)
   * Duties included: Design, deliver, review and maintain backend codebases.
   * Tech Stack: Java, Spring, Mysql, Kafka, DRM, SOFA
-  * [Projects](https://yanzheng1998.github.io/portfolio/portfolio-1/)
+  * [Projects](https://yanzheng1998.github.io/portfolio/P0-intern-project-at-AntFin/)
 * Sep 2019 - Present: Student Volunteer
   * Simulation Based Engineering Lab
   * Duties included: Implement and re-structure agent-related codes in project Synchrono
   * Tech Stack: C++, OpenMPI, Cmake
-  * [Projects](https://yanzheng1998.github.io/portfolio/portfolio-2/)
+  * [Projects](https://yanzheng1998.github.io/portfolio/P1-synchrono/)
 * Jan 2019 - Present: Part-time Software Engieer
   * Diary Brain Dev Team
   * Duties included: full-stack development
@@ -40,7 +40,7 @@ Pesonal project
 ======
 * Cloud file storage
   * tech stack: Golang, Gin, Mysql, Redis, Bootstrap, Javascript
-  * [Code](https://github.com/Yanzheng1998/filestore-server)
+  * [Code](https://yanzheng1998.github.io/portfolio/P2-dariybrain/)
   * Demo
 
 Skills
