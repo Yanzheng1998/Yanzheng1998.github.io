@@ -35,7 +35,14 @@ Work experience
   * Duties included: full-stack development
   * Teck Stack: Javascript, Bootstrap, Python, Falcon, PostgreSQL
   * [Projects](https://yanzheng1998.github.io/portfolio/portfolio-3/)
-  
+
+Pesonal project
+======
+* Cloud file storage
+  * tech stack: Golang, Gin, Mysql, Redis, Bootstrap, Javascript
+  * [Code](https://github.com/Yanzheng1998/filestore-server)
+  * Demo
+
 Skills
 ======
 * Programing Languages: Java; Python; C; C++; GO; SQL; Javascript; Html; CSS.
