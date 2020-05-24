@@ -16,7 +16,7 @@ redirect_from:
 ## Mentorship
   In the past, I really appreciate that I have opportunities to work with and mentored by a lot of smart people from my school, University of Wisconsin-Madison and Ant Financial. Knowing the importance of mentorship, I joined a club in my school, and became a mentor of three freshman/sophomore. After one solid semster-long connection, I helped two of them landed internship in top tier tech companies.<br/>
 ## Life outside coding
-  In my spare time, I enjoy videos(k-pop, movies, animes, tik toks), musics(trap, EDM, r&b, China Style) and sports(basketball).<br/><br/>
+  In my spare time, I enjoy videos(k-pop, movies, animes, tik toks), musics(trap, EDM, r&b, China Style) and sports(basketball).<br/>
 ## Contact me 
   If you wanted to talk about interesting projects or questions related to tech career, I am very happy to connect via email!
 
