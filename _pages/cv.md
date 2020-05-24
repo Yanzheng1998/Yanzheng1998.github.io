@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Sciences and Economics, University of Wisconsin-Madison, 2020
+* B.A. in Computer Sciences and Economics, University of Wisconsin-Madison, 2020
 
 Course Work
 ======
 * Undergraduate Coursework: Operating Systems; Databases; Data Structure; Algorithms; Compilers; Networking.
-* Graduate Coursework: High Performance Computing; Machine Learning; Distributed Systems.
+* Graduate Coursework: High Performance Computing; [Machine Learning](https://www.biostat.wisc.edu/~craven/cs760/); Distributed Systems.
 
 Work experience
 ======
