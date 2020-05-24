@@ -15,7 +15,7 @@ Education
 
 Course Work
 ======
-* Undergraduate Coursework: Operating Systems; Databases; Data Structure; Algorithms; Compilers; Networking.
+* Undergraduate Coursework: [Operating Systems](http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/); Databases; Data Structure; Algorithms; Compilers; Networking.
 * Graduate Coursework: High Performance Computing; [Machine Learning](https://www.biostat.wisc.edu/~craven/cs760/); Distributed Systems.
 
 Work experience
