@@ -13,7 +13,7 @@ redirect_from:
 ## Experience
   Also, I gained a lot of precious real world experiences outside of my school. Last summer, I interned at [Ant Financial](https://yanzheng1998.github.io/portfolio/portfolio-1/), the biggest unicorn in China. During the three months, I learned a lot about the dev procedures and high standards of code quality. More importantly, I learned ways of tackling complex problems and gained experiences of collaborations and communications across several teams in a giant company.<br/> 
 ## Mentorship
-  I really appreciate that I had opportunities to work with and mentored by a lot of smart people from Department of Computer Sciences at UW-Madison, Wisconsin Institute for Discovery, Simulation Based Engineering Lab and Ant Financial. Knowing the importance of mentorship, I joined a club matching mentors and mentees at my school, and became a mentor of three freshman/sophomores. After one solid semster-long connection, I helped two of them landing internships in top tier tech companies.<br/>
+  I really appreciate that I had opportunities to work with and be mentored by a lot of smart people from Department of Computer Sciences at UW-Madison, Wisconsin Institute for Discovery, Simulation Based Engineering Lab and Ant Financial. Knowing the importance of mentorship, I joined a club matching mentors and mentees at my school, and became a mentor of three freshman/sophomores. After one solid semster-long connection, I helped two of them landing internships in top tier tech companies.<br/>
 ## Life outside coding
   In my spare time, I really enjoy videos(k-pop, movies, animes, tik toks), music(trap, EDM, r&b, China Style) and sports(basketball, ).<br/>
 ## Contact me 
