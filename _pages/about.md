@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-###Passion
+### Passion
 
   Before entering college, I knew nothing about coding. Started as a math major, I naturally took serveral insteresting intro-level coding classes and I was deeply attracted by a digital world, because I like building things in nature. When I was young  I build Legos with my hands. With 4 years coding experiences, any I/O interface can be my hands to engineer a piece of software. Therefore, I had delievered a bunch of interesting projects such as a cloud store service, a c compiler and web pages(check out my [portfolio](https://yanzheng1998.github.io/portfolio/)!)<br/><br/>
   Also, I gained a lot of precious real world experiences outside of my school. Last summer, I interned at [Ant Financial](https://yanzheng1998.github.io/portfolio/portfolio-1/), the biggest unicorn in China. During the three months, I learned a lot about the dev procedures and high standard of code qualities. More importantly, I learned ways of tackling complex problems and gained experiences of collaborations and communications across several teams.<br/><br/> 
