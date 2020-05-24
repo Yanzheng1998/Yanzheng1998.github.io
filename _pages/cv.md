@@ -13,6 +13,11 @@ Education
 ======
 * B.S. in Computer Sciences and Economics, University of Wisconsin-Madison, 2020
 
+Course Work
+======
+* Undergraduate Coursework: Operating Systems; Databases; Data Structure; Algorithms; Compilers; Networking.
+* Graduate Coursework: High Performance Computing; Machine Learning; Distributed Systems.
+
 Work experience
 ======
 * Jun 2019 - Aug 2019: Software Engineering Intern
@@ -33,10 +38,8 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programing Languages: Java; Python; C; C++; GO; SQL; Javascript; Html; CSS.
+* Frameworks and tools: Spring; Falcon; ORM; Kafka; Redis; MySQL; PostgreSQL; CUDA; OpenMPI; Git.
+
+
 
