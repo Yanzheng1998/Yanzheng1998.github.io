@@ -38,7 +38,7 @@ Work experience
 
 Pesonal project
 ======
-* Cloud file storage
+* File storage server
   * tech stack: Golang, Gin, Mysql, Redis, Bootstrap, Javascript
   * [Code](https://yanzheng1998.github.io/portfolio/P2-dariybrain/)
   * Demo

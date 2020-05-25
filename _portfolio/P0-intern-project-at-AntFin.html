@@ -14,18 +14,67 @@ b. A platform-wised achievement system that supports services on marketing pages
 .mySlides {display:none;}
 </style>
 <body>
-<h1>
-  Project Background
-</h1>
+<h3>
+  Project Objective
+</h3>
+<P>
+  <ul>
+    <li>Increase daily active users.</li>
+    <li>Add new ways of rewarding points consumption</li>
+  </ul>
+</P>
+<hr/>
+<h3>
+  Tech Stack
+</h3>
 
-<div class="w3-content w3-display-container" style="height: 468px; width: 216px">
-  <img class="mySlides" src="/images/intern_project_ant_fin/internproject1.jpg" width="216" height="468">
-  <img class="mySlides" src="/images/intern_project_ant_fin/e_commerce_mall_page.jpg" width="216" height="468">
-  <img class="mySlides" src="/images/intern_project_ant_fin/cartrip.jpg" width="216" height="468">
+<p>
+  Java, Spring Cloud, MySQL, Kafka, Shell/Scripts, Drm
+</p>
+<hr/>
+<h3>
+  Accomplishment
+</h3>
+<p>
+  <ul>
+    <li>
+      Integrated an end-to-end e-commerce mall provided by Ali-Cloud to current marketing service. 
+    </li>
+    <li>
+      Implemented APIs, by Java under a Spring-Cloud-like frame, SOFA, to enable buying and refunding with rewards points in the e-commerce mall, bringing an increase in PV of marketing front page by 15% and an average GMV of $4,3000.      </li>
+    <li>
+      Visuals of the pages of the mall:<br>
+      <div class="w3-content w3-display-container" style="height: 468px; width: 216px">
+        <img class="mySlides" src="/images/intern_project_ant_fin/e_commerce_mall_page.jpg" width="216" height="468">
+        <img class="mySlides" src="/images/intern_project_ant_fin/mall0.jpg" width="216" height="468">
+        <img class="mySlides" src="/images/intern_project_ant_fin/mall1.jpg" width="216" height="468">
+        <img class="mySlides" src="/images/intern_project_ant_fin/mall2.jpg" width="216" height="468">
+      
+        <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+        <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
+      </div>
+    </li>
+    <li>
+      Designed and implemented an achievement module for platform by Java and optimized to accept high QPS with MessageBroker, a message queue.
+    </li>
+    <li>
+      That module was used by the game, Car Trip, on our marketing page.
+    </li>
+    <li>
+      Visuals:<br><br>
+      <div class="w3-content w3-display-container" style="height: 468px; width: 216px">
+        <img src="/images/intern_project_ant_fin/cartrip.jpg" width="216" height="468">
+      
+        <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+        <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
+      </div>
+    </li>
+    <li> Added switches via Drm to enable degradation on several APIs when the QPS is too high.</li>
+    <li> Write scripts for opertation managers to change congfigurations without consulting dev teams.</li>
+  </ul>
+  
+</p>
 
-  <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
-  <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
-</div>
 
 <script>
 var slideIndex = 1;
