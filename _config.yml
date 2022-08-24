@@ -80,13 +80,13 @@ analytics:
 # Site Author
 author:
   name             : "Yanzheng Li"
-  avatar           : "photo.png"
-  bio              : "University of Wisconsin-Madison 2020er majored in Computer Sciences and Economics"
-  location         : "Madison, WI"
-  employer         :
+  avatar           : "profile.png"
+  bio              : "Software Engineer. University of Wisconsin-Madison 2020er"
+  location         : "New York, NY"
+  employer         : Bloomberg
   pubmed           : 
   googlescholar    : 
-  email            : "li694@wisc.edu"
+  email            : "liyanzheng19980221@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
